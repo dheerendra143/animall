@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/animall/static/css/main.b7d955b8.chunk.css",
+    "main.js": "/animall/static/js/main.039959bf.chunk.js",
+    "main.js.map": "/animall/static/js/main.039959bf.chunk.js.map",
+    "runtime-main.js": "/animall/static/js/runtime-main.487b4146.js",
+    "runtime-main.js.map": "/animall/static/js/runtime-main.487b4146.js.map",
+    "static/js/2.7dd07def.chunk.js": "/animall/static/js/2.7dd07def.chunk.js",
+    "static/js/2.7dd07def.chunk.js.map": "/animall/static/js/2.7dd07def.chunk.js.map",
+    "static/js/3.181737e1.chunk.js": "/animall/static/js/3.181737e1.chunk.js",
+    "static/js/3.181737e1.chunk.js.map": "/animall/static/js/3.181737e1.chunk.js.map",
+    "index.html": "/animall/index.html",
+    "static/css/main.b7d955b8.chunk.css.map": "/animall/static/css/main.b7d955b8.chunk.css.map",
+    "static/js/2.7dd07def.chunk.js.LICENSE.txt": "/animall/static/js/2.7dd07def.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/animall/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.487b4146.js",
+    "static/js/2.7dd07def.chunk.js",
+    "static/css/main.b7d955b8.chunk.css",
+    "static/js/main.039959bf.chunk.js"
+  ]
+}
